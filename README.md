@@ -4,7 +4,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-000000?style=for-the-badge&logo=deeplearning&logoColor=white)
 
-<img src="./images/banner.svg" width="700" alt="Neural Networks Banner">
 
 ## Overview
 
@@ -30,7 +29,8 @@ pip install -r requirements.txt
 ### [CNN Image Classification](./CNN-Image-Classification)
 Implementation of a Convolutional Neural Network for image classification on the CIFAR-10 dataset, with optimizations like batch normalization and dropout.
 
-<img src="./images/cnn.svg" width="500" alt="CNN Architecture">
+<img src="![Basic-CNN-architecture-for-image-classification-55](https://github.com/user-attachments/assets/28d83f83-5015-408f-9102-ed04b1f36157)
+" width="500" alt="CNN Architecture">
 
 ### [ResNet CIFAR-10 Analysis](./ResNet-CIFAR10-Analysis)
 Comparative analysis of different ResNet architectures (ResNet-18, ResNet-34, ResNet-50) on the CIFAR-10 dataset, examining the trade-offs between model depth, accuracy, and training time.
