@@ -3,7 +3,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
-<img src="https://miro.medium.com/v2/resize:fit:786/1*8Y18Jp8E9BNop3hHtYQDsA.png" width="600" alt="ResNet Architecture">
 
 ## Overview
 
