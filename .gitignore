@@ -1,1 +1,73 @@
- 
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Data files
+*.csv
+*.json
+*.h5
+*.pth
+*.pkl
+*.pt
+*.npz
+*.npy
+data/
+datasets/
+
+# Model files (may be large)
+*.h5
+*.pth
+*.pt
+*.model
+*.weights
+*.pb
+
+# Images generated during training/evaluation
+*.png
+*.jpg
+*.jpeg
+
+# Logs
+logs/
+*/logs/
+*.log
+*.out
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# TensorFlow
+*.ckpt
+*.meta
+*.index
+*.data-*
+*.pb
+events.out.tfevents.*
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini 
