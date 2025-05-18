@@ -10,7 +10,7 @@ Thank you for your interest in contributing to this portfolio of neural network 
 4. **Test**: Ensure your code works as expected.
 5. **Commit Changes**: Use clear commit messages.
 6. **Push Changes**: `git push origin feature/your-feature-name`
-7. **Submit a Pull Request**: Create a PR against the main branch.
+7. **Submit a Pull Request**: Create a PR against the main branch. 
 
 ## Project Structure
 
