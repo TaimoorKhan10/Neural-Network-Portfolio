@@ -1,7 +1,4 @@
 
-Here's the content of the cifar10_cnn.py file that you can copy directly:
-
-```python
 import tensorflow as tf
 from tensorflow.keras.datasets import cifar10
 from tensorflow.keras.models import Sequential
