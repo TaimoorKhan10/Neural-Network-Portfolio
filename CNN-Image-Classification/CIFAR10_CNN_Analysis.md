@@ -1,11 +1,6 @@
 # CNN Image Classification on CIFAR-10
 
 
-Read file: CNN-Image-Classification/CIFAR10_CNN_Analysis.md
-
-Read file: CNN-Image-Classification/CIFAR10_CNN_Analysis.md
-Here's the markdown content for CNN-Image-Classification/CIFAR10_CNN_Analysis.md that you can directly add through GitHub's edit option:
-
 ```markdown
 # CNN Image Classification on CIFAR-10
 
