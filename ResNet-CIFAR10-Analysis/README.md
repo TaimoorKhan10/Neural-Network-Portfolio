@@ -67,7 +67,6 @@ Each model was trained with the following parameters:
 - Training epochs: 5
 - GPU acceleration using CUDA
 
-<img src="https://miro.medium.com/v2/resize:fit:1400/1*CYB2dyLRgJTDTnHZ-8iQcA.png" width="500" alt="Training Process">
 
 ## Results
 
@@ -81,7 +80,6 @@ Each model was trained with the following parameters:
 - ResNet-34: 27.2 minutes
 - ResNet-50: 42.8 minutes
 
-<img src="https://miro.medium.com/v2/resize:fit:1400/1*LzfE5bKsKuCqf9iyoDU6Qw.png" width="500" alt="Accuracy vs Training Time">
 
 ### Key Findings
 
