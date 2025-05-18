@@ -29,18 +29,15 @@ pip install -r requirements.txt
 ### [CNN Image Classification](./CNN-Image-Classification)
 Implementation of a Convolutional Neural Network for image classification on the CIFAR-10 dataset, with optimizations like batch normalization and dropout.
 
-<img src="![Basic-CNN-architecture-for-image-classification-55](https://github.com/user-attachments/assets/28d83f83-5015-408f-9102-ed04b1f36157)
-" width="500" alt="CNN Architecture">
+
 
 ### [ResNet CIFAR-10 Analysis](./ResNet-CIFAR10-Analysis)
 Comparative analysis of different ResNet architectures (ResNet-18, ResNet-34, ResNet-50) on the CIFAR-10 dataset, examining the trade-offs between model depth, accuracy, and training time.
 
-<img src="./images/resnet.svg" width="500" alt="ResNet Architecture">
 
 ### [Optimizers Comparison ANN](./OptimizersComparisonANN)
 Performance evaluation of various optimization algorithms (SGD, Momentum SGD, Adam, RMSprop, Adagrad) for training neural networks on the CIFAR-10 dataset.
 
-<img src="./images/optimizers.svg" width="500" alt="Optimizers Comparison">
 
 ## Technologies Used
 
@@ -59,9 +56,7 @@ Performance evaluation of various optimization algorithms (SGD, Momentum SGD, Ad
 
 ## Author
 
-**Taimoor Khan**  
-B22F0277AI063  
-BS Artificial Intelligence  
+**Taimoor Khan**   
 [GitHub Profile](https://github.com/TaimoorKhan10)
 
 ## How to Contribute
@@ -72,6 +67,3 @@ Contributions are welcome! Please see the [CONTRIBUTING.md](CONTRIBUTING.md) fil
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
-
-Special thanks to Ms. Ammara Irfan for guidance and support during the development of these projects. 
